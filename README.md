@@ -1,10 +1,10 @@
 #  Neuro ConGD
 
-![dvs-record](doc\dvs-record.gif)
+![dvs-record](doc/dvs-record.gif)
 
 Neuro ConGD dataset is a __neuromorphic continuous gesture dataset__, which comprises 2140 instances of a set of 17 gestures recorded in random order. The gestures include beckoning, finger-snap, ok, push-hand(down, left, right, up), rotate-outward, swipe(left, right, up), tap-index, thumbs-up, zoom(in, out) 
 
-![dataset_overview](doc\dataset_overview.png)
+![dataset_overview](doc/dataset_overview.png)
 
 We design a RNN classifier as a __baseline__ which can be seen in `train_rnn_classifier.py`.
 
