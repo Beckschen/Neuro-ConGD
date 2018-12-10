@@ -26,9 +26,9 @@ ___We are going to enlarge our dataset. Stay tuned!___
 6. [License](#license)
 
 ## Introduction
-This work is based on our [research paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Chen_LiDAR-Video_Driving_Dataset_CVPR_2018_paper.html), which appears in CVPR 2018. We propose a large-scale dataset for driving behavior learning, namely, DBNet. You can also check our [dataset webpage](http://www.dbehavior.net/) for a deeper introduction.
+This work is based on our [research paper]().  We release the  __neuromorphic continuous gesture dataset__. 
 
-In this repository, we release __demo code__ and __partial prepared data__ for training with only images, as well as leveraging feature maps or point clouds. The prepared data are accessible [here](https://drive.google.com/open?id=14RPdVTwBTuCTo0tFeYmL_SyN8fD0g6Hc). (__More demo models and scripts are released soon!__)
+
 
 ## Requirements
 
