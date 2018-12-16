@@ -46,8 +46,6 @@ The users can preprocess the data according to their demand:
 
     python preprocess_events.py [-h] [dirs [dirs ...]] out
 
-The names of the models are consistent with our [paper](http://www.dbehavior.net/publications.html).
-
 
 
 ### Training
